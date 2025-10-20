@@ -1,5 +1,5 @@
 export default {
   server: {
-    allowedHosts: ['mac-activity-renewable-goat.trycloudflare.com']
+    allowedHosts: ['.trycloudflare.com', 'p2three.onrender.com']
   }
 };

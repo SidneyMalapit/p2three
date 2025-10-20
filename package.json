@@ -15,7 +15,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx vite"
+    "start": "npx vite",
+    "build": "npx tsc"
   },
   "keywords": [],
   "author": "SidneyMalapit",
